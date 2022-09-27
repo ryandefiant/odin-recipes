@@ -1,0 +1,22 @@
+body {
+	background-color: gray;
+	font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+div.container {
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}
